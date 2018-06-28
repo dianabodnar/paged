@@ -8,15 +8,7 @@
   padding-top: 10px;
   padding-bottom: 35px;
   width: 100%;
-<<<<<<< HEAD
-<<<<<<< HEAD
-  background-image: url("99.jpg");
-=======
-  background-image: url("22.jpg");
->>>>>>> 0387254b6de4dab38ea6695bf37e71c15e1141f2
-=======
-  background-image: url("22.jpg");
->>>>>>> 0387254b6de4dab38ea6695bf37e71c15e1141f2
+ background-image: url("99.jpg");
   overflow: hidden;
 }
 ul#menu
