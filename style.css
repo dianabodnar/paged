@@ -46,7 +46,7 @@ a:hover {
 
 .background {
   overflow: hidden;
-  width: 100%;
+  width: 100vw;
   height: 100%;
   background-image: url("13.jpg");
   background-attachment: fixed;
@@ -96,7 +96,7 @@ text-align: center;
   padding-top: 100px;
   padding-bottom: 100px;
   overflow: hidden;
-  width: 100%;
+  width: 100vw;
   height: 18%;
   background-image: url("10.jpg");
   background-attachment: fixed;
@@ -109,7 +109,7 @@ text-align: center;
   padding-bottom: 100px;
   overflow: hidden;
   height: 18%;
-  width: 100%;
+  width: 100vw;
   background-image: url("11.jpg");
   background-attachment: fixed;
   background-size: cover;
