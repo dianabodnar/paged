@@ -56,7 +56,7 @@ a:hover {
 }
 .block {background-color: #f2f2f2;
  width: 100vw;
-height: 25vh;
+height: 40vh;
  text-align: center;
   overflow: hidden;
 }
@@ -142,8 +142,9 @@ h3 {
     height: 20px;
     text-align: center;
     text-decoration: none;
-    margin: 50px 0;
+    margin: 70px 0;
     border-radius: 50%;
+
   }
 
 .fa:hover {
