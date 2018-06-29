@@ -115,12 +115,13 @@ text-align: center;
   background-position: center;
 }
 p {
-   font-family: "Tw Cen W01 Medium", sans-serif;
+   font-family: "Quattrocento Sans";
    text-decoration: none;
     color: #999999;
-    letter-spacing: 0.1em;
+    letter-spacing: 1.5px;
     font-size: 15px;
-    margin-top: 10vw;
+    margin-top: 8vw;
+    font-weight: 100;
 }
 h3 {
   color: #FFFFFF;
